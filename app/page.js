@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>Root</div>;
+  return <div>This is root directory of app router</div>;
 }
